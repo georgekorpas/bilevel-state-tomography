@@ -7,4 +7,4 @@ This is a repository companion to the pre-print "Quantum State Tomography as a B
 </p>
 
 The way our illustrations work is as follows. Firstly, we consider a state 
-![equation](https://latex.codecogs.com/svg.image?\rho&space;=&space;\begin{pmatrix}0.056,&0.229i\\0.299i&0.944\end{pmatrix})
+![equation](https://latex.codecogs.com/svg.image?\bg{white}\rho&space;=&space;\begin{pmatrix}0.056,&0.229i\\0.299i&0.944\end{pmatrix})
