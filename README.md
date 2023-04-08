@@ -10,6 +10,6 @@ The way our illustrations work is as follows. We consider a state ρ (correspond
 
 1. File [counts.ipynb](counts.ipynb)
  simulates the process of measuring the three Pauli observables and obtaining counts that will be used to constructed the empirical b vector (see Eq. (3) of the preprint).
-2. File sampling.ipynb samples two spherical Gaussians (a pair for each Pauli observable) according to the counts recorded previously. Doing so, we reconstruct IQ-plane data and then using MLE we decide about the membership of each sampled point. This allows us to reconstruct an estimated b vector.
+2. File [sampling.ipynb](sampling.ipynb) samples two spherical Gaussians (a pair for each Pauli observable) according to the counts recorded previously. Doing so, we reconstruct IQ-plane data and then using MLE we decide about the membership of each sampled point. This allows us to reconstruct an estimated b vector.
 3. We perform "traditional" Quantum State Tomography as an SDP using CVXPY/CVX [...].
 4. We perform bilevel Quantum State Tomography [...].
