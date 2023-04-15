@@ -3,7 +3,7 @@
 This is a repository companion to the preprint "Quantum State Tomography as a Bilevel Problem" [https://arxiv.org/abs/2108.03448](https://arxiv.org/abs/2108.03448). 
 
 <p align="center">
-  <img src="flow.png" alt="" width="1140" height="360" style="margin-bottom: 10px;">
+  <img src="figures/flow.png" alt="" width="1140" height="360" style="margin-bottom: 10px;">
 </p>
 
 The way our illustrations work is as follows. We consider a state ρ (corresponding to a qubit). 
